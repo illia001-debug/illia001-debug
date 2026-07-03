@@ -1,6 +1,6 @@
 <h2>Привіт 👋</h2>
 
-<h3>Проекти в роботі</h3>
+<h3>Проекти</h3>
 <p>
   Наразі працюю над: <a href="https://github.com/illia001-debug/UserBot-Automatization">UserBot-Automatization</a>
 </p>
