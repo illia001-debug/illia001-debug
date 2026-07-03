@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2>Привіт 👋</h2>
 
-<!--
-**illia001-debug/illia001-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Проекти в роботі</h3>
+<p>
+  Наразі працюю над: <a href="https://github.com/illia001-debug/UserBot-Automatization">UserBot-Automatization</a>
+</p>
 
-Here are some ideas to get you started:
+<h3>Технологічний стек</h3>
+<p>
+  <!-- Java -->
+  <a href="https://oracle.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Python -->
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  </a>
