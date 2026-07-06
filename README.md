@@ -2,7 +2,7 @@
 
 <h3>Проекти</h3>
 <p>
-  Наразі працюю над: <a href="https://github.com/illia001-debug/UserBot-Automatization">UserBot-Automatization</a>
+  Наразі працюю над: <a href="https://github.com/illia001-debug/UserBot-NessageSender">UserBot-MessageSender</a>
 </p>
 
 <h3>Технологічний стек</h3>
