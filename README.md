@@ -21,3 +21,8 @@
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   </a>
+
+<!-- SQLite -->
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="Git" />
+  </a>
