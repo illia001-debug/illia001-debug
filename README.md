@@ -2,7 +2,7 @@
 
 <h3>Проекти</h3>
 <p>
-  Наразі працюю над: <a href="https://github.com/illia001-debug/UserBot-MessageSender">UserBot-MessageSender</a>
+  Наразі працюю над: <a href="https://github.com/illia001-debug/BannedNames">BannedNames</a>
 </p>
 
 <h3>Технологічний стек</h3>
